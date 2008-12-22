@@ -1,0 +1,8 @@
+--
+layout: default
+title: First Post
+-- 
+
+h1.{{ page.title }}
+
+This is just a little test post to see if this is all working properly.
